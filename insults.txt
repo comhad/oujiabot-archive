@@ -1,0 +1,9 @@
+I will steal your <adjective> <animal_part>, you <adjective> <animal>
+You <adjective> <animal>, logoff before you become <adjective>
+I will handle your <animal_part> (derogatory)
+You are the human equivilant of <adjective> <animal_part>
+You're <article target=animal> <animal id=animal>? No, you are a discount <animal>
+You are <article target=part> <adjective min=5 max=5> <animal_part id=part>, and you look like a <animal>
+I will put you in a bag and brew it (<adjective>)
+I am just a little bot to you? You <adjective> <animal>?
+Who's <article target=adj> <adjective id=adj> <animal>? You
